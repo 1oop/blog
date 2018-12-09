@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://1oop.github.io/blog/'
 languageCode = 'en-us'
 title = 'Adam Zhang'
 theme = 'stack'
