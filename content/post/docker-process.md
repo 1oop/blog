@@ -1,10 +1,18 @@
 +++
-title = '从docker中的1号进程开始,漫谈容器进程'
+title = 'Docker: 从进程1号,漫谈容器进程'
 date = 2018-12-09T19:41:59+08:00
 draft = true
+tags = [
+    "docker",
+    "process",
+]
+categories = [
+    "云原生",
+    "容器技术"
+]
 +++
 
-# 从docker中的1号进程开始,漫谈容器进程
+# Docker: 从进程1号,漫谈容器进程
 
 ## 如何开始：进程ID 1的特殊之处
 
