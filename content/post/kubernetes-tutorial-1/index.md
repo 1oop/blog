@@ -1,6 +1,6 @@
 +++
 title = 'Kubernetes教程: 介绍及安装'
-date = 2023-11-10T14:39:53+08:00
+date = 2019-03-10T14:39:53+08:00
 tags = [
   "Kubernetes",
   "教程"
