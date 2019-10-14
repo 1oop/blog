@@ -2,6 +2,15 @@
 title = '爬虫技巧之Xposed'
 date = 2019-04-23T19:29:19+08:00
 
+tags = [
+    "爬虫",
+    "Xposed"
+]
+
+categories = [
+    "爬虫"
+]
+
 +++
 
 # 爬虫技巧之Xposed
