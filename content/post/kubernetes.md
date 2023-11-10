@@ -2,6 +2,15 @@
 title = 'Kubernetes：下一代容器编排引擎'
 date = 2018-11-18T20:13:38+08:00
 draft = true
+tags = [
+    "kubernetes",
+    "docker",
+]
+categories = [
+    "云原生",
+    "容器技术",
+    "容器编排"
+]
 +++
 在技术博客的形式下，介绍 Kubernetes 可以如下进行：
 
