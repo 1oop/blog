@@ -2,6 +2,13 @@
 title = 'Ansible'
 date = 2019-02-10T19:20:33+08:00
 
+tags = [
+  "运维",
+]
+categories = [
+  "Linux",
+  "运维"
+]
 +++
 
 ## 简介

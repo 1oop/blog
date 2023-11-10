@@ -2,6 +2,14 @@
 title = 'Linux文件系统漫谈'
 date = 2019-01-14T19:18:20+08:00
 
+tags = [
+  "Linux",
+  "fs"
+]
+categories = [
+  "Linux",
+  "操作系统"
+]
 +++
 
 # Linux文件系统漫谈

@@ -1,7 +1,13 @@
 +++
 title = 'Containerd: 安装与使用'
 date = 2019-02-24T18:19:04+08:00
-
+tags = [
+  "Containerd",
+  "Linux"
+]
+categories = [
+  "容器技术"
+]
 +++
 
 # Containerd: 安装与使用

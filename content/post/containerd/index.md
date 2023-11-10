@@ -2,6 +2,13 @@
 title = '容器运行时: Containerd'
 date = 2019-02-18T19:13:31+08:00
 
+tags = [
+  "Containerd",
+  "Linux"
+]
+categories = [
+  "容器技术"
+]
 +++
 
 # 容器运行时: Containerd

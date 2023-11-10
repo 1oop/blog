@@ -1,7 +1,14 @@
 +++
 title = 'Kubernetes教程: 介绍及安装'
 date = 2023-11-10T14:39:53+08:00
-
+tags = [
+  "Kubernetes",
+  "教程"
+]
+categories = [
+  "容器技术",
+  "容器编排"
+]
 +++
 
 

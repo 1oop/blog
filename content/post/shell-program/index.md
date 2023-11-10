@@ -2,6 +2,14 @@
 title = 'Shell编程'
 date = 2019-01-20T13:31:33+08:00
 
+tags = [
+  "Shell",
+  "Bash"
+]
+categories = [
+  "Linux",
+  "脚本语言"
+]
 +++
 
 ## Shell编程简介
