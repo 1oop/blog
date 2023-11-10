@@ -1,7 +1,7 @@
 +++
 title = 'Docker: 内存蛋糕如何分配'
 date = 2018-12-18T19:42:38+08:00
-draft = true
+
 tags = [
     "docker",
     "memory",

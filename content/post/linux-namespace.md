@@ -1,7 +1,7 @@
 +++
 title = 'Linux Namespace: 虚拟化技术的基础'
 date = 2018-12-02T20:31:46+08:00
-draft = true
+
 tags = [
     "linux",
     "namespace",

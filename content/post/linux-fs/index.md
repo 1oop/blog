@@ -1,7 +1,7 @@
 +++
 title = 'Linux文件系统漫谈'
 date = 2019-01-14T19:18:20+08:00
-draft = true
+
 +++
 
 # Linux文件系统漫谈

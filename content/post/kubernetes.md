@@ -1,7 +1,7 @@
 +++
 title = 'Kubernetes：下一代容器编排引擎'
 date = 2018-11-18T20:13:38+08:00
-draft = true
+
 tags = [
     "kubernetes",
     "docker",
