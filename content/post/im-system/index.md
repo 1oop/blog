@@ -255,7 +255,11 @@ goim由于是bilibili员工开源的项目，使用的服务发现是bilibili/di
 
 参考文章：
 [如何设计一个亿级消息量的 IM 系统](https://xie.infoq.cn/article/19e95a78e2f5389588debfb1c)
+
 [万亿级调用系统：微信序列号生成器架构设计及演变](https://mp.weixin.qq.com/s/JqIJupVKUNuQYIDDxRtfqA)
+
 [一个海量在线用户即时通讯系统（IM）的完整设计](https://mp.weixin.qq.com/s?__biz=MzI1ODY0NjAwMA==&amp;mid=2247483756&amp;idx=1&amp;sn=a8e3303bc573b1acaf9ef3862ef89bdd&amp;chksm=ea044bf3dd73c2e5dcf2c10202c66d6143ec866205e9230f974fbc0b0be587926699230b6b18&amp;scene=21#wechat_redirect)
+
 [goim](https://github.com/Terry-Mao/goim/blob/master/README.md)
+
 [美图三年优化总结：Golang 实现单机百万长连接服务](https://www.infoq.cn/article/dFLJtPUs3G8SNikNty7o)

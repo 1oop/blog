@@ -374,3 +374,11 @@ go run main.go
 
 ### heap信息(包含GC)
 ![benchmark-heap](image-4.png)
+
+
+## 参考连接
+[Github: goim](https://github.com/Terry-Mao/goim)
+
+[Github: discovery](https://github.com/bilibili/discovery)
+
+[Kafka](https://kafka.apache.org/quickstart)
