@@ -235,7 +235,7 @@ comet.Channel是对用户连接的抽象，代表一个连接通道。其中Writ
 
 ### 总结
 从开源的goim以及IM系统本身的特点来看，im系统接入层服务的主要挑战是在维护大量的长连接。
-而先有IM系统，包括开源的goim，主要采取的方式有：
+而现有IM系统，包括开源的goim，主要采取的方式有：
 * 设计分布式系统，使用HTTPDNS做负载均衡，并且接入节点尽可能地离用户近
 * 应用层心跳机制，连接保活，降低服务端连接开销。
 * Go语言开发层面
@@ -250,4 +250,12 @@ comet.Channel是对用户连接的抽象，代表一个连接通道。其中Writ
   * 网络模型优化，使用epoll
 
 
-未完待续...
+### 待改进
+goim由于是bilibili员工开源的项目，使用的服务发现是bilibili/discovery，会带来额外的学习成本。同时使用的消息中间件为kafka，耦合到代码中，对技术栈选择上有一定限制。
+
+参考文章：
+[如何设计一个亿级消息量的 IM 系统](https://xie.infoq.cn/article/19e95a78e2f5389588debfb1c)
+[万亿级调用系统：微信序列号生成器架构设计及演变](https://mp.weixin.qq.com/s/JqIJupVKUNuQYIDDxRtfqA)
+[一个海量在线用户即时通讯系统（IM）的完整设计](https://mp.weixin.qq.com/s?__biz=MzI1ODY0NjAwMA==&amp;mid=2247483756&amp;idx=1&amp;sn=a8e3303bc573b1acaf9ef3862ef89bdd&amp;chksm=ea044bf3dd73c2e5dcf2c10202c66d6143ec866205e9230f974fbc0b0be587926699230b6b18&amp;scene=21#wechat_redirect)
+[goim](https://github.com/Terry-Mao/goim/blob/master/README.md)
+[美图三年优化总结：Golang 实现单机百万长连接服务](https://www.infoq.cn/article/dFLJtPUs3G8SNikNty7o)
