@@ -6,9 +6,8 @@ date = 2023-11-30T19:07:46+08:00
 
 # 高并发实操：goim实验环境搭建
 上一节大概梳理了goim中的架构及其部分组件的具体实现，接下来我将搭建一个goim实验环境，用于后续重构部分组件后的对比测试。
-
+由于goim依赖kafka(做消息中间件)以及redis(做缓存映射)，因此需要安装两个依赖。
 ## 安装Kafka
-
 ### 下载并解压Kafka
 ```bash
 $ tar -xzf kafka_2.13-3.6.0.tgz
@@ -367,12 +366,11 @@ go run main.go
 ### 压测结果
 * 推送到达: 3590万/秒左右;
 
-## comet模块
+### comet模块
 ![benchmark-comet](image-2.png)
-![benchmark-comet](benchmark-comet.jpg)
 
-## 流量
+### 流量
 ![benchmark-flow](image-3.png)
 
-## heap信息(包含GC)
+### heap信息(包含GC)
 ![benchmark-heap](image-4.png)
