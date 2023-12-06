@@ -2,6 +2,14 @@
 title = '使用opencv去水印'
 date = 2023-12-02T17:25:03+08:00
 
+tags = [
+  "Opencv",
+  "python"
+]
+categories = [
+  "Python",
+  "图像处理"
+]
 +++
 
 # 使用opencv去水印

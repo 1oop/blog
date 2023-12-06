@@ -2,6 +2,17 @@
 title = 'Openfaas：初体验'
 date = 2022-08-15T12:12:06+08:00
 
+tags = [
+  "Serverless",
+  "云原生",
+  "faas",
+  "openfaas",
+  "Docker"
+]
+categories = [
+  "Serverless",
+  "K8s"
+]
 +++
 
 

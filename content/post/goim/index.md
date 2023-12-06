@@ -2,6 +2,16 @@
 title = '高并发实操：goim实验环境搭建'
 date = 2023-11-30T19:07:46+08:00
 
+tags = [
+  "goim",
+  "im",
+  "Kafka",
+  "Raft"
+]
+categories = [
+  "Golang",
+  "高并发"
+]
 +++
 
 # 高并发实操：goim实验环境搭建

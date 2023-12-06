@@ -2,6 +2,16 @@
 title = '高并发实操：从一个IM系统开始'
 date = 2023-11-26T22:59:34+08:00
 
+tags = [
+  "goim",
+  "im",
+  "Kafka",
+  "Raft"
+]
+categories = [
+  "Golang",
+  "高并发"
+]
 +++
 
 # 高并发实操：从一个IM系统开始

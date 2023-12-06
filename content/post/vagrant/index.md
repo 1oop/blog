@@ -5,6 +5,9 @@ image = "logo.png"
 tags = [
     "开发工具",
 ]
+categories = [
+  "运维工具"
+]
 +++
 # Vagrant简明教程
 
